@@ -133,7 +133,7 @@ Check hash of executables names if more than one
     $TESTCASE_ROOT/exes)
    (FLG
     (-w
-     @1..3@5..28@30..39@43@46..47@49..57@61..62-40
+     @1..3@5..28@30..39@43@46..47@49..57@61..65-40
      -strict-sequence
      -strict-formats
      -short-paths
@@ -147,7 +147,7 @@ Check hash of executables names if more than one
     $TESTCASE_ROOT/exes)
    (FLG
     (-w
-     @1..3@5..28@30..39@43@46..47@49..57@61..62-40
+     @1..3@5..28@30..39@43@46..47@49..57@61..65-40
      -strict-sequence
      -strict-formats
      -short-paths
